@@ -52,7 +52,7 @@ Before you begin, ensure you have met the following requirements:
 3. **Install frontend dependencies:**
 
     ```bash
-    cd ../frontend
+    cd /chatgpt-frontend
     npm install
     ```
 
@@ -148,7 +148,7 @@ Create a `.env` file in the `backend` directory and add the following variables:
     npm start
     ```
 
-    The backend server will start on `http://localhost:3001`.
+    The backend server will start on `http://localhost:3000`.
 
 2. **Start the frontend server:**
 
@@ -157,12 +157,12 @@ Create a `.env` file in the `backend` directory and add the following variables:
     npm start
     ```
 
-    The frontend server will start on `http://localhost:3000`.
+    The frontend server will start on `http://localhost:3001`.
 
 3. **Open your browser and navigate to:**
 
     ```plaintext
-    http://localhost:3000
+    http://localhost:3001
     ```
 
     You should see the ChatGPT Blog Post Generator application running.
