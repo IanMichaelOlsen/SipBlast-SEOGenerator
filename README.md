@@ -165,7 +165,7 @@ Create a `.env` file in the `backend` directory and add the following variables:
     http://localhost:3001
     ```
 
-    You should see the ChatGPT Blog Post Generator application running.
+    You should see the SipBlast SEO Blog Post Generator application running.
 
 ## Contributing
 
